@@ -49,6 +49,7 @@
 🔗 Ресурсы:
 LearnPython — интерактивный курс - https://www.learnpython.org/
 Python Tutor — визуализация кода - http://pythontutor.com/
+Stepik [Добрый, добрый Python с Сергеем Балакиревым] - https://stepik.org/course/100707/syllabus
 YouTube: Python за 1 час (рус) - https://www.youtube.com/watch?v=fp5-XQFr_nk
 
 ---
